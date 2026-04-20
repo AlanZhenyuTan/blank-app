@@ -6,3 +6,5 @@ st.write(
 )
 
 print ("ABC")
+
+st.title("🎈 My new Streamlit app")
