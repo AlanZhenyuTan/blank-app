@@ -8,7 +8,8 @@ st.write(
 print ("ABC")
 
 st.title("🎈 My new Streamlit app")
-
+st.title("🎈 My new Streamlit app")
+st.title("🎈 My new Streamlit app")
 
 
 
